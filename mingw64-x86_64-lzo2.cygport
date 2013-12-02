@@ -3,7 +3,7 @@ inherit cross
 
 NAME="mingw64-x86_64-lzo2"
 VERSION=2.06
-RELEASE=1
+RELEASE=2
 CATEGORY="Devel"
 SUMMARY="LZO library for Win64 toolchain"
 DESCRIPTION="LZO is a portable lossless data compression library written in
